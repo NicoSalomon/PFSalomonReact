@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Nox at10",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "nox",
+        "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "price": 400,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Bull Padel Vertex 04",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "bullpadel",
+        "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "price": 600,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "title": "Bull Padel Vertex Confort",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "bullpadel",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 500,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "title": "Nox Vk10 Luxury",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "nox",
+        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "price": 430,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "title": "Varlion Summum Prisma",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "varlion",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 410,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "title": "Bull Padel Hack 03",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "bullpadel",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 600,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "title": "Varlion Prisma AirFlow",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "varlion",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 400,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "title": "Varlion Bourne One",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "varlion",
+        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "price": 380,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "title": "Starvie Triton PRO",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "starvie",
+        "image": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "price": 420,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "title": "Nox America vs Europa",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "nox",
+        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "price": 450,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "title": "Starvie Titania",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "starvie",
+        "image": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "price": 300,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "title": "Bull Padel Hybrid 24",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "bullpadel",
+        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "price": 710,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "title": "Babolat Counter Viper",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "babolat",
+        "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "price": 470,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "title": "Babolat Technical Viper",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "babolat",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 530,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "title": "Adidas Metalbone",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "adidas",
+        "image": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "price": 300,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "title": "Adidas Metalbone Carbon",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "adidas",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 330,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "title": "Babolat Air Viper",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "babolat",
+        "image": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "price": 530,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "title": "Starvie Raptor Black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "starvie",
+        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "price": 390,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "title": "Adidas Team Ligth 3.0",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "adidas",
+        "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "price": 310,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "title": "Adidas Rx Series",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae, placeat.",
+        "categoria": "adidas",
+        "image": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "price": 220,
+        "stock": 10
+    }
+]
