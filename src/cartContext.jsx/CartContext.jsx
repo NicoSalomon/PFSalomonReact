@@ -19,7 +19,7 @@ export const CartProvider = ({children}) => {
             estaEnElCarrito.cantidad += cantidad;
         } else {
             nuevoCarrito.push(itemAgregado);
-        }
+        }   
         setCarrito(nuevoCarrito);
     }
 

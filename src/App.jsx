@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="container_principal">
-      <CartContext.Provider>
+      <CartContext.Provider value={user}>
 
         <BrowserRouter>
           <Navbar />

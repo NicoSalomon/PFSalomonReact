@@ -1,14 +1,19 @@
-import { Avatar, Badge } from 'antd';
-import './Cartwidget.css'
+import React, { useContext } from 'react'
+import { Link } from 'react-router-dom'
+import { CartContext } from '../../context/CartContext';
 
-const Cartwidget = () => {
-    return (
-        <div className='icon'>
-            <Badge size="default" count={5}>
-                <Avatar className='icon2' shape="square"/>
-            </Badge>
-        </div>
-    )
+const CartWidget = () => {
+
+    const { cantidadEnCarrito } = useContext(CartContext);
+
+  return (
+    <div>
+        <Link className="menu-link" to="/carrito">
+            Carrito
+            <span className="numerito">{cantidadEnCarrito()}</span>
+        </Link>
+    </div>
+  )
 }
 
-export default Cartwidget
+export default CartWidget

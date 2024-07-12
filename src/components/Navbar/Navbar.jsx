@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { Button, Flex } from 'antd';
+import { Button } from 'antd';
 import './Navbar.css'
 import Cartwidget from '../CartWiget/CartWidget';
 
@@ -10,6 +10,7 @@ const Navbar = () => {
             <Link to='/' className='logo'><h1>Padel Shop</h1></Link>
             <ul className='menu'>
                 <li><Button type="primary"><Link to='/'>Inicio</Link></Button></li>
+                <li><Button type="primary"><Link to='./nosotros/nosotros'>Nosotros</Link></Button></li>
                 <li><Button type="primary"><Link to='/productos/nox'>Nox</Link></Button></li>
                 <li><Button type="primary"><Link to='/productos/bullpadel'>Bull Padel</Link></Button></li>
                 <li><Button type="primary"><Link to='/productos/varlion'>Varlion</Link></Button></li>
