@@ -3,9 +3,12 @@ import ItemDetailContainer from "./components/ItemDetailContainer/ItemDetailCont
 import Navbar from "./components/Navbar/Navbar"
 import Nosotros from "./components/Nosotros/Nosotros"
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { CartContext } from "./context/CartContext";
 import './App.css'
 
 function App() {
+
+  const user = 1
 
   return (
     <div className="container_principal">

@@ -15,8 +15,9 @@ const Navbar = () => {
                 <li><Button type="primary"><Link to='/productos/bullpadel'>Bull Padel</Link></Button></li>
                 <li><Button type="primary"><Link to='/productos/varlion'>Varlion</Link></Button></li>
                 <li><Button type="primary"><Link to='/productos/adidas'>Adidas</Link></Button></li>
-                <li><Button type="primary"><Link to='/productos/starvie'>Star Vie</Link></Button></li>                
+                <li><Button type="primary"><Link to='/productos/starvie'>Star Vie</Link></Button></li>
                 <li><Button type="primary"><Link to='/productos/babolat'>Babolat</Link></Button></li>
+                <li><Button type="primary"><Link to='../carrito/carrito'>Carrito</Link></Button></li>
                 <Cartwidget />
             </ul>
         </nav>
